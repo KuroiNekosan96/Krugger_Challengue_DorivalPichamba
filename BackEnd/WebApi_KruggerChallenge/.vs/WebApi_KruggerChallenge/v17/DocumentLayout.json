@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Documents\\DORIVAL\\ANGULAR_IONIC\\Krugger_Challenge\\BackEnd\\WebApi_KruggerChallenge\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7A743B82-6366-4F31-BA6D-C6919B4204AF}|WebApi_KruggerChallenge.csproj|c:\\users\\user\\documents\\dorival\\angular_ionic\\krugger_challenge\\backend\\webapi_kruggerchallenge\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A743B82-6366-4F31-BA6D-C6919B4204AF}|WebApi_KruggerChallenge.csproj|solutionrelative:controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A743B82-6366-4F31-BA6D-C6919B4204AF}|WebApi_KruggerChallenge.csproj|c:\\users\\user\\documents\\dorival\\angular_ionic\\krugger_challenge\\backend\\webapi_kruggerchallenge\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A743B82-6366-4F31-BA6D-C6919B4204AF}|WebApi_KruggerChallenge.csproj|solutionrelative:models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A743B82-6366-4F31-BA6D-C6919B4204AF}|WebApi_KruggerChallenge.csproj|c:\\users\\user\\documents\\dorival\\angular_ionic\\krugger_challenge\\backend\\webapi_kruggerchallenge\\kruggerdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A743B82-6366-4F31-BA6D-C6919B4204AF}|WebApi_KruggerChallenge.csproj|solutionrelative:kruggerdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A743B82-6366-4F31-BA6D-C6919B4204AF}|WebApi_KruggerChallenge.csproj|c:\\users\\user\\documents\\dorival\\angular_ionic\\krugger_challenge\\backend\\webapi_kruggerchallenge\\models\\sector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A743B82-6366-4F31-BA6D-C6919B4204AF}|WebApi_KruggerChallenge.csproj|solutionrelative:models\\sector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ClienteController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\DORIVAL\\ANGULAR_IONIC\\Krugger_Challenge\\BackEnd\\WebApi_KruggerChallenge\\Controllers\\ClienteController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ClienteController.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\DORIVAL\\ANGULAR_IONIC\\Krugger_Challenge\\BackEnd\\WebApi_KruggerChallenge\\Controllers\\ClienteController.cs",
+              "RelativeToolTip": "Controllers\\ClienteController.cs",
+              "ViewState": "AgIAALoAAAAAAAAAAAAswMcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-31T22:02:43.082Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\DORIVAL\\ANGULAR_IONIC\\Krugger_Challenge\\BackEnd\\WebApi_KruggerChallenge\\Models\\Cliente.cs",
+              "RelativeDocumentMoniker": "Models\\Cliente.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\DORIVAL\\ANGULAR_IONIC\\Krugger_Challenge\\BackEnd\\WebApi_KruggerChallenge\\Models\\Cliente.cs",
+              "RelativeToolTip": "Models\\Cliente.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAmwCEAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-31T19:24:21.133Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Sector.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\DORIVAL\\ANGULAR_IONIC\\Krugger_Challenge\\BackEnd\\WebApi_KruggerChallenge\\Models\\Sector.cs",
+              "RelativeDocumentMoniker": "Models\\Sector.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\DORIVAL\\ANGULAR_IONIC\\Krugger_Challenge\\BackEnd\\WebApi_KruggerChallenge\\Models\\Sector.cs",
+              "RelativeToolTip": "Models\\Sector.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAowBQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-31T22:41:01.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "KruggerDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\DORIVAL\\ANGULAR_IONIC\\Krugger_Challenge\\BackEnd\\WebApi_KruggerChallenge\\KruggerDbContext.cs",
+              "RelativeDocumentMoniker": "KruggerDbContext.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\DORIVAL\\ANGULAR_IONIC\\Krugger_Challenge\\BackEnd\\WebApi_KruggerChallenge\\KruggerDbContext.cs",
+              "RelativeToolTip": "KruggerDbContext.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwCEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-31T23:21:54.695Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
