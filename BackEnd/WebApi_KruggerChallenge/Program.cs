@@ -10,6 +10,16 @@ builder.Services.AddDbContext<KruggerDbContext>(op =>
     op.UseNpgsql(connectionString);
 });
 
+// Configurar CORS
+builder.Services.AddCors(options =>
+{
+    options.AddPolicy("AllowAngular", policy =>
+    {
+        policy.WithOrigins("http://localhost:4200") // Cambia esto si usas otra URL en desarrollo
+              .AllowAnyHeader()
+              .AllowAnyMethod();
+    });
+});
 
 builder.Services.AddControllers();
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
@@ -25,10 +35,12 @@ if (app.Environment.IsDevelopment())
     app.UseSwaggerUI();
 }
 
-app.UseCors("AllowAll");
+// Usar la política de CORS configurada
+app.UseCors("AllowAngular");
 
 app.UseAuthorization();
 
 app.MapControllers();
 
 app.Run();
+

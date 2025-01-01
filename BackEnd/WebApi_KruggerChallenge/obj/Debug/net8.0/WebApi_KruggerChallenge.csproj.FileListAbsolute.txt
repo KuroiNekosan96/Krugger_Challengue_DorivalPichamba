@@ -110,3 +110,4 @@ C:\Users\User\Documents\DORIVAL\ANGULAR_IONIC\Krugger_Challenge\BackEnd\WebApi_K
 C:\Users\User\Documents\DORIVAL\ANGULAR_IONIC\Krugger_Challenge\BackEnd\WebApi_KruggerChallenge\obj\Debug\net8.0\WebApi_KruggerChallenge.pdb
 C:\Users\User\Documents\DORIVAL\ANGULAR_IONIC\Krugger_Challenge\BackEnd\WebApi_KruggerChallenge\obj\Debug\net8.0\WebApi_KruggerChallenge.genruntimeconfig.cache
 C:\Users\User\Documents\DORIVAL\ANGULAR_IONIC\Krugger_Challenge\BackEnd\WebApi_KruggerChallenge\obj\Debug\net8.0\ref\WebApi_KruggerChallenge.dll
+C:\Users\User\Documents\DORIVAL\ANGULAR_IONIC\Krugger_Challenge\BackEnd\WebApi_KruggerChallenge\obj\Debug\net8.0\WebApi_KruggerChallenge.sourcelink.json
