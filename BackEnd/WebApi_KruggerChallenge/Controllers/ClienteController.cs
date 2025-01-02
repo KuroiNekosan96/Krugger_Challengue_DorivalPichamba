@@ -45,7 +45,7 @@ namespace WebApi_KruggerChallenge.Controllers
             {
                 return BadRequest(new Response<CrearActualizarCliente>
                 {
-                    IsSuccess= true,
+                    IsSuccess= false,
                     Result= model,
                     Message="Los campos no son correctos"
                 });
@@ -68,7 +68,7 @@ namespace WebApi_KruggerChallenge.Controllers
 
             return Ok(new Response<Cliente>
             {
-                IsSuccess= false,
+                IsSuccess= true,
                 Result = clienteNuevo,
                 Message="Cliente registrado correctamente"
             });

@@ -54,8 +54,61 @@
   },
   {
     "ContainingType": "WebApi_KruggerChallenge.Controllers.SectorController",
+    "Method": "GetById",
+    "RelativePath": "api/Sector/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebApi_KruggerChallenge.Controllers.SectorController",
+    "Method": "Put",
+    "RelativePath": "api/Sector/ActualizarSector/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      },
+      {
+        "Name": "model",
+        "Type": "WebApi_KruggerChallenge.Models.CrearActualizarSector",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebApi_KruggerChallenge.Controllers.SectorController",
+    "Method": "Delete",
+    "RelativePath": "api/Sector/EliminarSector/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebApi_KruggerChallenge.Controllers.SectorController",
     "Method": "GetAll",
-    "RelativePath": "api/Sector",
+    "RelativePath": "api/Sector/ListarSectores",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
@@ -65,7 +118,7 @@
   {
     "ContainingType": "WebApi_KruggerChallenge.Controllers.SectorController",
     "Method": "Post",
-    "RelativePath": "api/Sector",
+    "RelativePath": "api/Sector/RegistrarSectores",
     "HttpMethod": "POST",
     "IsController": true,
     "Order": 0,
